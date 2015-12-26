@@ -1,0 +1,1 @@
+# tuaplicacionpropia.openshift
