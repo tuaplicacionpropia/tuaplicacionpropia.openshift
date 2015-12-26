@@ -1,1 +1,3 @@
 # tuaplicacionpropia.openshift
+
+PRODUCTION
